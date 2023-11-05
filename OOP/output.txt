@@ -1,0 +1,16 @@
+Inorder Traversal:
+'Rain' by Andy Bloom was completed in 2004
+'Moon' by David Josephs was completed in 2008
+'Sun' by Melinda Vigh was completed in 2012
+'Cloud' by Dany Loom was completed in 2013
+'Sky' by Helga Vigh was completed in 2023
+
+'Banana' by Anna Banana from 2007 was found in the tree.
+
+Inorder Traversal after adding or removing an artwork:
+'Peach' by Bob Peach was completed in 2002
+'Rain' by Andy Bloom was completed in 2004
+'Banana' by Anna Banana was completed in 2007
+'Sun' by Melinda Vigh was completed in 2012
+'Cloud' by Dany Loom was completed in 2013
+'Sky' by Helga Vigh was completed in 2023
